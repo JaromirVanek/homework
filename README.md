@@ -17,6 +17,9 @@ The main difference with compose is the UI elements being defined and drawn on t
 
 ![androidStudio2](https://user-images.githubusercontent.com/125447239/219015270-75c91c16-7dc4-49a3-9454-3ad3a26c4faf.jpg)
 
+* [JetPack Compose](https://developer.android.com/jetpack/compose)
+* [Compose vs XML](https://medium.com/justeattakeaway-tech/jetpack-compose-ui-testing-1362e83a7bb2)
+
 ![kotlin-version](https://img.shields.io/badge/kotlin-1.8.0-orange)
 
 **Kotlin Multiplatform** project with SwiftUI, Jetpack Compose, Compose for Wear OS, Compose for Desktop, Compose for Web, and Kotlin/JS + React clients along with Ktor backend. Currently running on
