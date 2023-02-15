@@ -9,7 +9,7 @@
 ![androidStudio2](https://user-images.githubusercontent.com/125447239/219015270-75c91c16-7dc4-49a3-9454-3ad3a26c4faf.jpg)
 
 ## Test description
-* 1st test - Click on astronaut name for detailed info, check it is displayed and then click on back arrow to return to the home screeen
+* 1st test - Click on astronaut name for detailed info, check it is displayed and then click on back arrow to return to the home screen
 * 2nd test - Click on ISS position page and check it is displayed
 
 ## Sources
