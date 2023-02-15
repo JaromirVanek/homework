@@ -1,4 +1,21 @@
-# PeopleInSpace
+# PeopleInSpace - Fork for test pourpose
+
+This project is only for app Compose test demonstration.
+
+As app uses JetPack Compose for UI tests are written to follow Compose UI definition.
+
+Compose vs XML
+The main difference with compose is the UI elements being defined and drawn on the screen with Kotlin code rather than an XML layout.
+
+## Ho to run test
+* Clone or download this repository
+* Open repository in the Android studio
+* AppTest file is in java->com.surrus.peopleinspace(androidTest)
+* click on the file by right mouse button and Run 'AppTest' or press CTRL+Shift+F10
+
+![androidStudio](https://user-images.githubusercontent.com/125447239/219014955-43c2956d-a679-4217-997b-c3aa143c3a74.jpg)
+
+![androidStudio2](https://user-images.githubusercontent.com/125447239/219015270-75c91c16-7dc4-49a3-9454-3ad3a26c4faf.jpg)
 
 ![kotlin-version](https://img.shields.io/badge/kotlin-1.8.0-orange)
 
@@ -16,7 +33,8 @@
 * Web (Kotlin/JS + React Wrapper) (contributed by https://github.com/PatilShreyas)
 * JVM (small Ktor back end service + `Main.kt` in `common` module)
 
-It makes use of [Open Notify PeopleInSpace API](http://open-notify.org/Open-Notify-API/People-In-Space/) to show list of people currently in
+It makes use of [Open Notify PeopleInSpace API](http![Uploading androidStudio.jpg…]()
+://open-notify.org/Open-Notify-API/People-In-Space/) to show list of people currently in
 space and also the position of the International Space Station (inspired by https://kousenit.org/2019/12/19/a-few-astronomical-examples-in-kotlin/)!  
 
 The project is included as sample in the official [Kotlin Multiplatform Mobile docs](https://kotlinlang.org/docs/mobile/samples.html#peopleinspace) and also the [Google Dev Library](https://devlibrary.withgoogle.com/products/android)
